@@ -1,5 +1,2 @@
 ***** This is for testing purpose *******
-Jenkins integrated now
-Added the file
-Public Cloud
-Webhook configured
+
